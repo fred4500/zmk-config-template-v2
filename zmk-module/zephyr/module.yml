@@ -1,3 +1,4 @@
-name: q11-numpad-module
-board-root: .
-shield-root: .
+name: zmk-keyboard-q11numpad
+build:
+  settings:
+    board_root: .

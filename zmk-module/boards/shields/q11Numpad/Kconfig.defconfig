@@ -1,0 +1,6 @@
+if SHIELD_Q11NUMPAD
+
+config ZMK_KEYBOARD_NAME
+    default "Q11 Numpad"
+
+endif
