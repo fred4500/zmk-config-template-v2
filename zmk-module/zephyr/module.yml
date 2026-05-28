@@ -1,3 +1,3 @@
 name: q11-numpad-module
-build:
-  board-root: .
+board-root: .
+shield-root: .
